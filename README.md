@@ -1,17 +1,35 @@
  ##
-    Ola Sou Felipe!
+    Olá Sou Felipe!
 
-<!--
-**KiFelipe/KiFelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 felipe_dohk@otmail.com
+- 🔭 Hoje Trabalho com Consultoria
+- 🌱 Estudo Ciencia da Computação e ASP.NET
+- 📫 felipe_dohk@hotmail.com
 - 😄 Ele/Dele
 
--->
+<div>
+
+  <a href="https://github.com/KiFelipe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KiFelipe&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiFelipe&layout=compact&langs_count=16&theme=highcontrast"/>
+  
+</div>
+
+
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="Rafa-Js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Rafa-React" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"> 
+  <img align="center" alt="Rafa-React" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  
+</div>
+
+ ##
+
+<div>
+  <a href = "mailto:felipe_dohk@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipevieira1995" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
+
