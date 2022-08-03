@@ -1,8 +1,7 @@
- ##
-    Olá Sou Felipe!
+ ##  Olá Sou Felipe Vieira, Estudante de Ciencia da Computação!
 
 - 🔭 Hoje Trabalho com Consultoria
-- 🌱 Estudo Ciencia da Computação e ASP.NET
+- 🌱 Estudo Ciencia da Computação
 - 📫 felipe_dohk@hotmail.com
 - 😄 Ele/Dele
 
