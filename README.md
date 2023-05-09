@@ -1,6 +1,6 @@
   ## <h1>Olá Sou Felipe Vieira, Estudante de Ciencia da Computação!</h1>
 
-Sempre tive contato com tecnologia: comecei fazendo um curso de Web Design em 2013 e, em seguida, fiz um curso de montagem e manutenção de micros e redes. hoje possuo conhecimento em Linguagem C,Java alem de ter feito curso HTML5 e CSS3.  Meu foco atual é aperfeiçoar meu inglês e entender melhor sobre cibersegurança, que é a área em que gostaria de me especializar futuramente.
+Desde 2013, venho mantendo um estreito contato com a tecnologia. Inicialmente, participei de um curso de Web Design, seguido por outro curso de montagem e manutenção de micros e redes. Atualmente, possuo um vasto conhecimento em Linguagem C e Java, além de ter concluído um curso em HTML5 e CSS3. Concentro meus esforços na aprimoração da língua inglesa e na compreensão mais aprofundada de cibersegurança, uma vez que almejo especializar-me nesta área no futuro.
 - 🔭 Hoje Trabalho com Consultoria
 - 🌱 Estudo Ciencia da Computação
 - 📫 felipe_dohk@hotmail.com
