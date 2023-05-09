@@ -1,5 +1,6 @@
   ## <h1>Olá Sou Felipe Vieira, Estudante de Ciencia da Computação!</h1>
 
+- Prazer, sou Felipe Vieira e resido em Santo André - SP. Atualmente, estou cursando Ciência da Computação na Faculdade das Américas (FAM). Sempre tive contato com tecnologia: comecei fazendo um curso de Web Design em 2013 e, em seguida, fiz um curso de montagem e manutenção de micros e redes. Na faculdade, aprendi sobre algoritmos e raciocínio lógico, utilizando o Code Blocks com a linguagem C, e sobre orientação a objetos com Java no Netbeans. Meu foco atual é aperfeiçoar meu inglês e entender melhor sobre cibersegurança, que é a área em que gostaria de me especializar futuramente.
 - 🔭 Hoje Trabalho com Consultoria
 - 🌱 Estudo Ciencia da Computação
 - 📫 felipe_dohk@hotmail.com
