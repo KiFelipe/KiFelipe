@@ -32,5 +32,3 @@ Desde 2013, venho mantendo um estreito contato com a tecnologia. Inicialmente, p
   <a href="https://www.linkedin.com/in/felipevieira1995" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/KiFelipe/KiFelipe/blob/output/github-contribution-grid-snake.svg)
-
